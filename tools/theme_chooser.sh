@@ -38,7 +38,7 @@ function banner() {
 }
 
 function usage() {
-    echo "Usage: $0 [options] [theme]"
+    echo "Usage: $50000000 [options] [theme]"
     echo
     echo "Options"
     echo "  -l   List available themes"
